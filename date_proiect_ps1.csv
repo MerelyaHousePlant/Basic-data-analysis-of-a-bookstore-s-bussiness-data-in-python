@@ -1,0 +1,38 @@
+Id Produs,Denumire,Pret,Stoc, Cost aprovizionare,Copii vandute,Categorie,Autor,Editura,Limba,Calificativ vanzari,Valoare totala,Profit generat,Rentabilitate,Reducere promotionala,Valoare ajustata
+10,Pride and Prejudice,25,800,12000,600,Clasici,Jane Austen,Alma,Engleza,Foarte Bun,15000,3000,Rentabil,8%,13800
+11,A Tale of Two Cities,23,800,11040,500,Clasici,Charles Dickens,Alma,Engleza,Foarte Bun,11500,460,Rentabil,8%,10580
+12,Wuthering Heights,30,800,14400,550,Clasici,Emily Bronte,Alma,Engleza,Foarte Bun,16500,2100,Rentabil,8%,15180
+13,Harry Potter si piatra filosofala,50,900,27000,700,Fantezie,J.K Rowling,Arthur,Romana,Excelent,35000,8000,Rentabil,17%,29050
+14,Harry Potter si camera secretelor,58,620,21576,520,Fantezie,J.K Rowling,Arthur,Romana,Foarte Bun,30160,8584,Rentabil,17%,25032.8
+15,The eye of the world,50,300,9000,200,Fantezie,Robert Jordan,Bantam,Engleza,Slab,10000,1000,Rentabil,8%,9200
+16,Elantris,55,200,6600,150,Fantezie,Brandon Sanderson,Paladin,Romana,Slab,8250,1650,Rentabil,18%,6765
+17,Ultimul Imperiu,38,,9120,200,Fantezie,Brandon Sanderson,Paladin,Romana,Slab,7600,-1520,Nerentabil,18%,6232
+18,Calea Regilor,42,,10080,230,Fantezie,Brandon Sanderson,Paladin,Romana,Satisfacator,9660,-420,Nerentabil,18%,7921.2
+19,Circe,53,,15900,330,Fantezie,Madeline Miller,Paladin,Romana,Bun,17490,1590,Rentabil,18%,14341.8
+20,Ultima Dorinta,28,600,10080,300,Fantezie,Andrzej Sapkowski,Nemira,Romana,Satisfacator,8400,-1680,Nerentabil,20%,6720
+21,Sangele Elfilor,32,500,9600,290,Fantezie,Andrzej Sapkowski,Nemira,Romana,Satisfacator,9280,-320,Nerentabil,20%,7424
+22,A Storm of Swords,33,700,13860,370,Fantezie,George R.R. Martin,Bantam,Engleza,Bun,12210,-1650,Nerentabil,8%,11233.2
+23,A Clash of Kings,35,700,14700,400,Fantezie,George R.R. Martin,Bantam,Engleza,Bun,14000,-700,Nerentabil,8%,12880
+24,Emma,24,300,4320,200,Clasici,Jane Austen,Alma,Engleza,Slab,4800,480,Rentabil,8%,4416
+25,Sense and Sensibility,20,,4800,250,Clasici,Jane Austen,Penguin,Engleza,Satisfacator,5000,200,Rentabil,5%,4750
+26,Metamorfoza,18,230,2484,180,Clasici,Franz Kafka,Polirom,Romana,Slab,3240,756,Rentabil,18%,2656.8
+27,Frankenstein,20,290,3480,240,Clasici,Mary Shelley,Polirom,Romana,Satisfacator,4800,1320,Rentabil,18%,3936
+28,Kafka pe malul marii,30,350,6300,300,Modern,Haruki Murakami,Polirom,Romana,Satisfacator,9000,2700,Rentabil,19%,7290
+29,Poarta-ti plugul peste oasele mortilor,28,220,3696,190,Modern,Olga Tokarczuk,Polirom,Romana,Slab,5320,1624,Rentabil,19%,4309.2
+30,Padure Norvegiana,34,145,2958,130,Modern,Haruki Murakami,Polirom,Romana,Slab,4420,1462,Rentabil,19%,3580.2
+31,1984,20,,5040,400,Distopic,George Orwell,Polirom,Romana,Bun,8000,2960,Rentabil,20%,6400
+32,Ferma animalelor,18,360,3888,320,DIstopic,George Orwell,Polirom,Romana,Bun,5760,1872,Rentabil,20%,4608
+33,Minunata lume noua,18,175,1890,140,Distopic,Aldous Huxley,Polirom,Romana,Slab,2520,630,Rentabil,20%,2016
+34,Povestea Slujitoarei,54,,16200,350,Distopic,Margaret Atwood,Paladin,Romana,Bun,18900,2700,Rentabil,18%,15498
+35,Jocurile Foamei,37,780,17316,700,Distopic,Suzanne Collins,Nemira,Romana,Excelent,25900,8584,Rentabil,20%,20720
+36,Master and the margarita,30,300,5400,200,Clasici,Mikhail Bulgakov,Penguin,Engleza,Slab,6000,600,Rentabil,5%,5700
+37,Anna Kareina,33,380,7524,300,Clasici,Leo Tolstoy,Penguin,Engleza,Satisfacator,9900,2376,Rentabil,5%,9405
+38,Crime and Punishment,32,600,11520,450,Clasici,Fyodor Dostoevsky,Penguin,Engleza,Foarte Bun,14400,2880,Rentabil,5%,13680
+39,One Piece Vol 10,80,130,6240,120,Manga,Eiichiro Oda,Viz Media,Engleza,Slab,9600,3360,Rentabil,10%,8640
+40,Death Note Vol 8,72,140,6048,130,Manga,Tsugumi Ohba,Viz Media,Engleza,Slab,9360,3312,Rentabil,10%,8424
+41,Fullmetal Alchemist Vol 12,70,125,5250,110,Manga,Hiromu Arakawa,Viz Media,Engleza,Slab,7700,2450,Rentabil,10%,6930
+42,Capra cu trei iezi,10,200,1200,130,Clasici,Ion Creangã,Patrimoniu,Romana,Slab,1300,100,Rentabil,0%,1300
+43,Ursul pacalit de vulpe,8,240,1152,150,Clasici,Ion Creangã,Patrimoniu,Romana,Slab,1200,48,Rentabil,0%,1200
+44,Punguta cu doi bani,8,230,1104,200,Clasici,Ion Creangã,Patrimoniu,Romana,Slab,1600,496,Rentabil,0%,1600
+45,Harap alb,15,210,1890,200,Clasici,Ion Creangã,Patrimoniu,Romana,Slab,3000,1110,Rentabil,0%,3000
+46,Amintiri din copilarie,15,220,1980,150,Clasici,Ion Creangã,Patrimoniu,Romana,Slab,2250,270,Rentabil,0%,2250
